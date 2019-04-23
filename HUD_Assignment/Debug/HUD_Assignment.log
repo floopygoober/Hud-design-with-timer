@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HUD_Assignment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Window.cpp
+  UIHandler.cpp
+  Timer.cpp
+  Scene2.cpp
+c:\users\alimg\desktop\secondyear\first semester\c++\hud_assignment\hud_assignment\scene2.cpp(73): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Scene1.cpp
+  Main.cpp
+  GameManager.cpp
+  Generating Code...
+  HUD_Assignment.vcxproj -> C:\Users\alimg\Desktop\SecondYear\First Semester\C++\HUD_Assignment\Debug\HUD_Assignment-Ben.exe
